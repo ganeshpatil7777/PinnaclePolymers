@@ -18,4 +18,4 @@ E-65 /2 MIDC, Ranjangaon ,Tal- Shirur, Dist.-Pune 412 220
 
 Mobile Number +91- 98900 57231
 
-Email Id contact@pinnaclepolymers.co.in
+Email Id md@pinnaclepolymers.co.in
