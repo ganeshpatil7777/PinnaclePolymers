@@ -17,12 +17,12 @@ DefaultContentLanguageInSubdir = true
       logo = "/PinnaclePolymers.png"
     [[languages.en.menu.main]]
         name = "Products"
-        url = "/blog"
+        url = "/en/blog"
         weight = 1
 
     [[languages.en.menu.main]]
         name = "About Us"
-        url = "/page/about/"
+        url = "/en/page/about/"
         weight = 2
 
       [[languages.en.menu.main]]
