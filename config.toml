@@ -17,12 +17,12 @@ DefaultContentLanguageInSubdir = true
       logo = "/PinnaclePolymers.png"
     [[languages.en.menu.main]]
         name = "Products"
-        url = "/en/blog"
+        url = "/blog"
         weight = 1
 
     [[languages.en.menu.main]]
         name = "About Us"
-        url = "/en/page/about/"
+        url = "/page/about/"
         weight = 2
 
       [[languages.en.menu.main]]
@@ -120,7 +120,7 @@ DefaultContentLanguageInSubdir = true
   
 [[menu.main]]
   name = "About"
-  url = "/en/about"
+  url = "/about"
 
 [build]
   writeStats = true
