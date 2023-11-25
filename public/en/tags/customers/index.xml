@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>customers on Pinnacle Polymeres</title>
-    <link>/en/tags/customers/</link>
+    <link>https://venerable-paletas-3090de.netlify.app/en/tags/customers/</link>
     <description>Recent content in customers on Pinnacle Polymeres</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/en/tags/customers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://venerable-paletas-3090de.netlify.app/en/tags/customers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact US</title>
-      <link>/en/contact/</link>
+      <link>https://venerable-paletas-3090de.netlify.app/en/contact/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/en/contact/</guid>
+      <guid>https://venerable-paletas-3090de.netlify.app/en/contact/</guid>
       <description>Company Name PINNACLE POLYMERS.
 E-65 /2 MIDC, Ranjangaon ,Tal- Shirur, Dist.-Pune 412 220
 Managing Director Ram A. Gore
@@ -21,9 +21,9 @@ Email Id contact@pinnaclepolymers.co.in </description>
     </item>
     <item>
       <title>Esteemed Customer Base</title>
-      <link>/en/blog/customers/</link>
+      <link>https://venerable-paletas-3090de.netlify.app/en/blog/customers/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/en/blog/customers/</guid>
+      <guid>https://venerable-paletas-3090de.netlify.app/en/blog/customers/</guid>
       <description>Faurecia India Pvt. Ltd. (France)
 International Automotive Components- (IAC )
 OHSUNG Electronics India Pvt. Ltd (South Korean)

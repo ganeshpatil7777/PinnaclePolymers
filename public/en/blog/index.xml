@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Products on Pinnacle Polymeres</title>
-    <link>/en/blog/</link>
+    <link>https://venerable-paletas-3090de.netlify.app/en/blog/</link>
     <description>Recent content in Products on Pinnacle Polymeres</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 16 Sep 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/en/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://venerable-paletas-3090de.netlify.app/en/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Products</title>
-      <link>/en/blog/products/</link>
+      <link>https://venerable-paletas-3090de.netlify.app/en/blog/products/</link>
       <pubDate>Sat, 16 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>/en/blog/products/</guid>
+      <guid>https://venerable-paletas-3090de.netlify.app/en/blog/products/</guid>
       <description>Tool design and development capabilities for Plastic ,Blow, Rubber and TPU Products as per customer requirement.
 We design multiple plastic products based on customer requirements. We have multiple profiles as below
 Product Profile 1 Product Profile 2 Product Profile 3 Product Profile 4 Product Profile 5 Product Profile 6 </description>
     </item>
     <item>
       <title>Machineries</title>
-      <link>/en/blog/machineries/</link>
+      <link>https://venerable-paletas-3090de.netlify.app/en/blog/machineries/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/en/blog/machineries/</guid>
+      <guid>https://venerable-paletas-3090de.netlify.app/en/blog/machineries/</guid>
       <description>Our plant is fully equipped with skilled people to perform various level of task. Our plant has machineries as below
 Injection Molding Unit-1 Injection Molding Unit-1 Injection Molding Unit-2 Axillary Equipment&amp;rsquo;s Axillary Equipment&amp;rsquo;s </description>
     </item>
     <item>
       <title>Esteemed Customer Base</title>
-      <link>/en/blog/customers/</link>
+      <link>https://venerable-paletas-3090de.netlify.app/en/blog/customers/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/en/blog/customers/</guid>
+      <guid>https://venerable-paletas-3090de.netlify.app/en/blog/customers/</guid>
       <description>Faurecia India Pvt. Ltd. (France)
 International Automotive Components- (IAC )
 OHSUNG Electronics India Pvt. Ltd (South Korean)
